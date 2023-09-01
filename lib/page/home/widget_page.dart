@@ -7,6 +7,7 @@ class WidgetPage extends StatelessWidget {
   final List _pages = [
     {'desc': 'TextField', 'route': '/TextField'},
     {'desc': 'CircularProgressIndicator', 'route': '/CircularProgressIndicator'},
+    {'desc': 'LinearProgressIndicatorPage', 'route': '/LinearProgressIndicatorPage'},
   ];
 
   @override
